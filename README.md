@@ -4,6 +4,8 @@
 anime:
 - STEINS;GATE
 - コードギアス
+- 進撃の巨人
+- チ。
 - DEATH NOTE
 - 未来日記
 - NHKにようこそ!
